@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 7b14130f-4eb8-0fd4-4b10-1a7d3fbff8d7
+video_metadata:
+  youtube_id: null
 ---
 
 The homework assignments are due in the lecture sessions mentioned in the table below.
@@ -90,7 +92,7 @@ Homework 5 ({{% resource_link 8417aead-230e-479c-346a-b45f185271e7 "PDF" %}})
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Renormalization of _c{{< sub "F" >}} (µ)_, Heavy-to-Light Currents in HQET, OPE for _B_ → _X{{< sub "c" >}}e{{< resource 8d34e48f-087a-9455-56fb-a082f52ddb00 "nu." >}}_
+Renormalization of _c{{< sub "F" >}} (µ)_, Heavy-to-Light Currents in HQET, OPE for _B_ → _X{{< sub "c" >}}e{{< resource "8d34e48f-087a-9455-56fb-a082f52ddb00" >}}_
 {{< tdclose >}}
 {{< tdopen >}}
 Homework 6 ({{% resource_link a49f2f93-5411-7d61-b2fc-4e399fe0abcd "PDF" %}})
